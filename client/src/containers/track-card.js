@@ -59,7 +59,7 @@ const TrackCard = ({ track }) => {
       </CardContent>
     </CardContainer>
   );
-};
+}
 
 export default TrackCard;
 
